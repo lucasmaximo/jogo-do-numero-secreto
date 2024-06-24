@@ -5,7 +5,7 @@ let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
 exibirMensagemInicial();
-
+exibirMensagemInicial();
 
 // funções
 function gerarNumeroAleatorio() {
